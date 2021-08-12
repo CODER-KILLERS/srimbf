@@ -1,7 +1,7 @@
 # srimbf
 
 <h1 align="center">
-  YMBF
+  SRIMBF
 </h1>
 </div>
 <p align="center">
